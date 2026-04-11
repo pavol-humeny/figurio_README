@@ -52,8 +52,8 @@ Projekt bol prezentovaný formou akademického plagátu pripraveného v rámci b
 Krátke video predstavujúce funkcionalitu aplikácie:
 
 <p align="center">
-  <a href="https://youtu.be/aXLa-67F8p0" target="_blank">
-    <img src="https://img.youtube.com/vi/aXLa-67F8p0/0.jpg" alt="Figurio video preview" width="600"/>
+  <a href="https://youtu.be/_uK8gAzKHcM" target="_blank">
+    <img src="https://img.youtube.com/vi/_uK8gAzKHcM/0.jpg" alt="Figurio video preview" width="600"/>
   </a>
 </p>
 
