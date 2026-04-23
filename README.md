@@ -298,4 +298,4 @@ Poďakovanie patrí všetkým používateľom, ktorí sa počas vývoja podieľa
 
 # Licencia
 
-Tento projekt je distribuovaný pod licenciou GNU General Public License v3.0 (GPL-3.0) [`LICENSE`](./LICENSE).
+Tento projekt je distribuovaný pod licenciou GNU General Public License v3.0 (GPL-3.0).
