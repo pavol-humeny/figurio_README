@@ -271,8 +271,6 @@ npm run test         # vitest
 npm run test:ui      # vitest UI
 npm run deploy       # deployment script
 npm run deploy:push  # deployment push script
-npm run i18n:export  # export prekladov do xlsx
-npm run i18n:import  # import prekladov z xlsx
 ```
 ---
 
