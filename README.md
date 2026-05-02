@@ -244,35 +244,10 @@ Projekt je postavený modulárne s dôrazom na oddelenie prezentačnej vrstvy, a
 - `src/router` – definícia routingu a navigácie medzi stránkami aplikácie.
 - `src/services` – služby pre import a export.
 - `src/stores` – správa globálneho stavu aplikácie pomocou Pinia.
-- `src/views` – hlavné stránky aplikácie (`Home`, `Editor`, `Statistics`, `Maintenance`).
+- `src/views` – hlavné stránky aplikácie (`Home`, `Editor`, `Statistics`, `UserStatistics`, `Maintenance`).
 - `tests/unit` – unit testy jednotlivých modulov a funkčných častí aplikácie.
 
 --- 
-
-# Inštalácia a spustenie
-
-## Inštalácia
-```bash
-git clone https://github.com/your-repo/figurio.git
-cd figurio
-npm install
-npm run dev
-```
-
-## Dostupné npm skripty
-
-```bash
-npm run dev          # vývojový server
-npm run build        # produkčný build
-npm run preview      # lokálny náhľad produkčného buildu
-npm run lint         # eslint --fix
-npm run format       # prettier pre src/
-npm run test         # vitest
-npm run test:ui      # vitest UI
-npm run deploy       # deployment script
-npm run deploy:push  # deployment push script
-```
----
 
 # Technické obmedzenia
 
